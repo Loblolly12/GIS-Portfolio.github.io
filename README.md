@@ -12,30 +12,26 @@
 
 ![Map 3](Lab3.png)
 
-```markdown
-Syntax highlighted code block
+### Map 4
 
-# Header 1
-## Header 2
-### Header 3
+![Map 4](Lab4.png)
 
-- Bulleted
-- List
+### Map 5
 
-1. Numbered
-2. List
+![Map 5](Lab5.png)
 
-**Bold** and _Italic_ and `Code` text
+### Map 6
 
-[Link](url) and ![Image](src)
-```
+![Map 6](Lab6.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Map 7
 
-### Jekyll Themes
+![Map 7](Lab7.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Loblolly12/GIS-Portfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Map 8
 
-### Support or Contact
+![Map 8](Lab8.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Map 9
+
+![Map 9](Lab9.png)
