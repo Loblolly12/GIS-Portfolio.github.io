@@ -1,9 +1,16 @@
 ## GIS Portfolio
 
-### Markdown
+### Map 1
 
 ![Map 1](Lab1.png)
 
+### Map 2
+
+![Map 2](Lab2.png)
+
+### Map 3
+
+![Map 3](Lab3.png)
 
 ```markdown
 Syntax highlighted code block
