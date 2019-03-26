@@ -2,7 +2,7 @@
 
 ### Markdown
 
-![Map 1](/Desktop/Lab1.png)
+![Map 1](/Desktop/Lab1)
 
 
 ```markdown
