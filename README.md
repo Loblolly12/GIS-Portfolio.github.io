@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GIS Portfolio
 
 You can use the [editor on GitHub](https://github.com/Loblolly12/GIS-Portfolio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
