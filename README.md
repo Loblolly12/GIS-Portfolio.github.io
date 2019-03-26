@@ -40,7 +40,7 @@ I made this map using QGIS:
 
 I used the map in a flyer.
 
-![Map 8](Lab8.png)
+![Flyer](Flyer.png)
 
 ### Map 9
 
