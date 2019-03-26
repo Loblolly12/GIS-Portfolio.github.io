@@ -34,6 +34,10 @@
 
 ### Map 8
 
+I made this map using QGIS:
+![ParadeRoute2](ParadeRoute2.png)
+
+I used the map in a flyer.
 ![Map 8](Lab8.png)
 
 ### Map 9
