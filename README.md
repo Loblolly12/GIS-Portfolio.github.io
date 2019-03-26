@@ -8,9 +8,13 @@
 
 ![Map 2](Lab2.png)
 
-### Map 3
+### Map 3a
 
-![Map 3](Lab3.png)
+![Map 3a](Lab3a.png)
+
+### Map 3b
+
+![Map 3b](Lab3b.png)
 
 ### Map 4
 
