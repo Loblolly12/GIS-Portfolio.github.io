@@ -2,7 +2,7 @@
 
 ### Markdown
 
-![Map 1](/GIS/GIS_SP2019/Lab1/Lab1_8.pdf)
+![Map 1](/Desktop/Lab1.png)
 
 
 ```markdown
