@@ -1,47 +1,45 @@
 ## GIS Portfolio
 
-### Map 1
+### Hello ESRI: Mapping home in East Texas
 
 ![Map 1](Lab1.png)
 
-### Map 2
+### Presidential Voting in Texas by State House District: 2012 vs 2016
+#### *Mapping change over time*
 
 ![Map 2](Lab2.png)
 
-### Map 3a
+### Superfund Sites on East Texas Water Bodies
+#### Mapping possible water pollution
 
 ![Map 3a](Lab3a.png)
 
-### Map 3b
+### Infant Mortality Rates, Race, and Superfund Sites in Houston
+#### Mapping environmental injustice
 
 ![Map 3b](Lab3b.png)
 
-### Map 4
+### Prevalence of Renting in Limestone County
+#### Mapping census data 
 
 ![Map 4](Lab4.png)
 
-### Map 5
+### Wayfinding at Southwestern
+#### Collecting GPS data and creating shapefiles
 
 ![Map 5](Lab5.png)
 
-### Map 6
+### Hidden Data in the Census
+#### Mapping with multiple census units
 
 ![Map 6](Lab6.png)
 
-### Map 7
+### Austin Fire Department Parade Route
+#### Problem-solving with network analysis
 
-![Map 7](Lab7.png)
-
-### Map 8
-
-I made this map using QGIS:
+I made the map below using QGIS then incorporated it into a flyer for a hypothetical parade.
 
 ![ParadeRoute2](ParadeRoute2.png)
 
-I used the map in a flyer.
-
 ![Flyer](Flyer.png)
 
-### Map 9
-
-![Map 9](Lab9.png)
