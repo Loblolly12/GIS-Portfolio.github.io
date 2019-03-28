@@ -1,6 +1,7 @@
 ## GIS Portfolio
 
-### Hello ESRI: Mapping home in East Texas
+### Hello ESRI
+#### Mapping home in East Texas
 
 ![Map 1](Lab1.png)
 
