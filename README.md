@@ -52,7 +52,10 @@
 
 I made the map below using QGIS then incorporated it into a flyer for a hypothetical parade.
 
+
 ![ParadeRoute2](ParadeRoute2.png)
+
+
 
 ![Flyer](Flyer.png)
 
